@@ -1,64 +1,23 @@
-# CineFlix - Web UI Interface
+<h1 align="center">Hi 👋, I'm Satyaharsha Sappa</h1>Add commentMore actions
+<h3 align="center">A passionate frontend developer from India</h3>
 
-This project is a **feature-rich frontend web application** developed during my internship at **MANAC INFOTECH PRIVATE LIMITED** as part of their *Web Application Development* initiative. The goal was to design a modern, responsive movie-streaming interface with an engaging user experience—something similar to Netflix, but purely frontend-driven.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sappasatya&label=Profile%20views&color=0e75b6&style=flat" alt="sappasatya" /> </p>
 
-## Internship Context
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sappasatya" alt="sappasatya" /></a> </p>
 
-As an intern at **MANAC INFOTECH PRIVATE LIMITED**, I had the opportunity to work on real-world projects that challenged my design and coding skills. This particular project involved:
+- 📫 How to reach me **sappasatyaharsha@gmail.com**
 
-- Creating a fully functional, responsive movie carousel
-- Implementing custom UI components like a fixed navbar, animated sliders, watchlist buttons, etc.
-- Using only **HTML**, **CSS**, and **Vanilla JS** (no frameworks)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sappa satyaharsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sappa satyaharsha" height="30" width="40" /></a>
+<a href="https://codesandbox.com/sappa satyaharsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sappa satyaharsha" height="30" width="40" /></a>
+<a href="https://instagram.com/sappasatyaharsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sappasatyaharsha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sappasatya7349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sappasatya7349" height="30" width="40" /></a>
+</p>
 
-This hands-on experience helped me sharpen my frontend fundamentals and later inspired the foundation for my personal **developer portfolio website**.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-## Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sappasatya&show_icons=true&locale=en&layout=compact" alt="sappasatya" /></p>
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- CodeSandbox Template
-- Git & GitHub for version control
-
-## Screenshots
-
-| Home UI | Carousel View |
-|--------|----------------|
-| ![Home Screenshot](./screenshots/home.png) | ![Carousel Screenshot](./screenshots/carousel.png) |
-
-## Features
-
-- Smooth sliding carousel animation
-- Hover-based preview transition
-- Fully responsive layout with modern look
-- Styled navigation bar with search & login
-
-## My Role
-
-I independently handled:
-- Layout structuring
-- CSS animations & transitions
-- JavaScript-based dynamic behaviors
-- Custom component design
-
-## What's Next?
-
-I’ve adapted many of these components and UI principles while building my [developer portfolio site](#) to showcase my projects and journey.
-
----
-
-### Contact
-
-If you're interested in frontend collaboration or want to know more about my internship journey:
-
-- 📧 sappasatyaharsha@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/sappa-satyaharsha)
-
----
-
-### Credits
-
-Thanks to **MANAC INFOTECH PRIVATE LIMITED** for the valuable mentorship and real-world exposure during the internship.
-
----
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sappasatya&show_icons=true&locale=en" alt="sappasatya" /></p>
