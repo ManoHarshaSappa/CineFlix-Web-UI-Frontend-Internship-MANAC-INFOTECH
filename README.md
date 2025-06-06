@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyaharsha Sappa</h1>Add commentMore actions
+<h1 align="center">Hi 👋, I'm mano harsha Sappa</h1>Add commentMore actions
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sappasatya&label=Profile%20views&color=0e75b6&style=flat" alt="sappasatya" /> </p>
